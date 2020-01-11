@@ -1,2 +1,4 @@
-# Increase_Reading_Speed
-It is the research project for RA of UAlberta.
+# Reading Training Research
+
+## How to try?
+http://readtraining.herokuapp.com/
