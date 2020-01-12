@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
+import { auth, getLevel } from '../../firebase/firebase';
 
 class UserPart extends Component {
     constructor(){
@@ -12,6 +13,7 @@ class UserPart extends Component {
 
     componentDidMount = () => {
         // TODO : query the username and level from the databse 
+       
     }
 
     render(){
