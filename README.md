@@ -1,4 +1,4 @@
 # Reading Training Research
 
 ## How to try?
-http://readtraining.herokuapp.com/
+https://readtrain.herokuapp.com
